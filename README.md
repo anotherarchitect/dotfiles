@@ -58,11 +58,6 @@ setproxy
 unsetproxy
 ```
 
-List all images of all Kubernetes deployments and daemonsets of the given namespace
-
-```bash
-```
-
 Switch Kubernetes config context
 
 ```bash
