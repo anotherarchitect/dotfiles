@@ -35,6 +35,9 @@ antidote bundle ohmyzsh/ohmyzsh path:themes/tjkirch.zsh-theme
 # compinit call for loading completions
 compinit
 
+# Set Path
+export PATH="$HOME/.local/bin:$PATH"
+
 # -------------------------------- #
 # Functions
 # -------------------------------- #
